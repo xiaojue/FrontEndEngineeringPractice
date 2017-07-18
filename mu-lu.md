@@ -34,7 +34,7 @@
 
   * rollup模块核心原理解析
 
-  * gulp原理解析
+  * gulp核心原理解析
 
   * 常见的webpack，rollup，gulp插件介绍与实现解析
 

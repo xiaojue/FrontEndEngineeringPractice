@@ -36,6 +36,8 @@
 
   * gulp原理解析
 
+  * 常见的webpack，rollup，gulp插件介绍与实现解析
+
   * 
 
 * 工程化项目实战。

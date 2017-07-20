@@ -4,3 +4,9 @@
 * [前言](preface.md)
 * [目录](chapter.md)
 * [前端工程化的发展历史以及现状](history-and-status-quo.md)
+* [前端工程化解决的问题和目标](/problems-and-goals.md)
+
+* [前端工程化的设计原则](/design-principles.md)
+
+
+

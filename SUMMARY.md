@@ -4,7 +4,6 @@
 * [前言](preface.md)
 * [目录](chapter.md)
 * [前端工程化的发展历史以及现状](history-and-status-quo.md)
-* [前端工程化解决的问题和目标](/problems-and-goals.md)
 * [前端工程化的设计原则](/design-principles.md)
 * [不同类型项目的工程化分析](/engineering-analysis.md)
 * [前端工程化落地](/implementation.md)
@@ -14,8 +13,4 @@
 * [实战](/actual-combat.md)
 * [开发流程与部署](/process-and-deploy.md)
 * [构建系统的优化](/build-system-optimization.md)
-
-
-
-
 
